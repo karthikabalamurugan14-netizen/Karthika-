@@ -70,7 +70,6 @@
 
     <!-- First Page Content -->
     <div id="questionPage">
-        <img src="cute.png" alt="cute">
 
         <h1>Will you be my Valentine? 💌</h1>
         <p>Think carefully 🥺</p>
@@ -83,7 +82,6 @@
 
     <!-- Sweet Page Content -->
     <div id="sweetPage">
-        <img src="sweet.png" alt="sweet">
         <h1>Yayyyy! 💕</h1>
         <p>I Know!!!🥰</p>
         <p>Happy Valentine's Day Mama💘</p>
